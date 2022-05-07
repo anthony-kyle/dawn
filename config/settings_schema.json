@@ -50,6 +50,13 @@
       },
       {
         "type": "color",
+        "id": "colors_heading_text",
+        "default": "#121212",
+        "label": "t:settings_schema.colors.settings.colors_heading_text.label",
+        "info": "t:settings_schema.colors.settings.colors_heading_text.info"
+      },
+      {
+        "type": "color",
         "id": "colors_text",
         "default": "#121212",
         "label": "t:settings_schema.colors.settings.colors_text.label",
