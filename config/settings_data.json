@@ -98,8 +98,12 @@
     "favicon": "shopify:\/\/shop_images\/Melon_Pickle_Neon.png",
     "currency_code_enabled": true,
     "cart_type": "drawer",
-    "checkout_logo_image": "shopify:\/\/shop_images\/MelonPickle_Logo_280x_208ed471-6460-4393-83bc-d9a0a06f07ce.png",
-    "checkout_body_background_color": "#6e0000",
+    "checkout_logo_image": "shopify:\/\/shop_images\/MelonPickle_Logo_Text_Burgundy.png",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#efefef",
+    "checkout_sidebar_background_color": "#6e0000",
+    "checkout_accent_color": "#6e0000",
+    "checkout_button_color": "#6e0000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
