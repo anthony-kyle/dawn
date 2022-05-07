@@ -102,7 +102,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/MelonPickle_Logo_Text_Burgundy.png",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#efefef",
-    "checkout_sidebar_background_color": "#6e0000",
+    "checkout_sidebar_background_color": "#f3dada",
     "checkout_accent_color": "#6e0000",
     "checkout_button_color": "#6e0000",
     "sections": {
