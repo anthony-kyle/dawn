@@ -8,7 +8,7 @@
     "colors_heading_text": "#6e0000",
     "colors_text": "#232323",
     "colors_outline_button_labels": "#6e0000",
-    "colors_background_1": "#ffffff",
+    "colors_background_1": "#efefef",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
@@ -128,7 +128,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/MelonPickle_Logo_280x_208ed471-6460-4393-83bc-d9a0a06f07ce.png",
+          "logo": "shopify:\/\/shop_images\/MelonPickle_Logo.png",
           "logo_width": 150,
           "logo_position": "middle-left",
           "menu": "main-menu",
