@@ -112,6 +112,10 @@
         "header__2": {
           "content": "Secondary colors"
         },
+        "colors_heading_text": {
+          "label": "Heading Text",
+          "info": "Used as Header Text Color."
+        },
         "colors_text": {
           "label": "Text",
           "info": "Used as foreground color on background colors."
