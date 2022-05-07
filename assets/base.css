@@ -19,6 +19,27 @@
   --gradient-background: rgb(var(--color-base-text));
 }
 
+.color-background-1 h1,
+.color-background-1 h2,
+.color-background-1 h3,
+.color-background-1 h4,
+.color-background-1 h5,
+.color-background-1 h6, 
+.color-background-2 h1,
+.color-background-2 h2,
+.color-background-2 h3,
+.color-background-2 h4,
+.color-background-2 h5,
+.color-background-2 h6, 
+.color-inverse h1,
+.color-inverse h2,
+.color-inverse h3,
+.color-inverse h4,
+.color-inverse h5,
+.color-inverse h6 {
+  --color-foreground: var(--color-heading-text);
+}
+
 .color-accent-1 {
   --color-foreground: var(--color-base-solid-button-labels);
   --color-background: var(--color-base-accent-1);
