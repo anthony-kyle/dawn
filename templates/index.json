@@ -11,13 +11,13 @@
             "heading_size": "h1",
             "subheading": "Add some flair to your lights with our sustainable lamp shades.",
             "button_label": "Get Lit",
-            "link": "",
-            "button_style_secondary": false,
+            "link": "shopify:\/\/collections\/lampshades",
+            "button_style_secondary": true,
             "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 30,
-            "color_scheme": "inverse",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         },
