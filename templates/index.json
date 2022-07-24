@@ -156,7 +156,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "featured-products",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -177,6 +177,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -215,6 +216,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -228,6 +230,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -278,48 +281,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1658634850aeed415b": {
-      "type": "rich-text",
-      "blocks": {
-        "165863485000bc7d6a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "165863485000bc7d6a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "165863485000bc7d6a-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "165863485000bc7d6a-0",
-        "165863485000bc7d6a-1",
-        "165863485000bc7d6a-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -329,7 +290,6 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn",
-    "1658634850aeed415b"
+    "multicolumn"
   ]
 }
