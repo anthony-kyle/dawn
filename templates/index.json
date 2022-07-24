@@ -1,5 +1,68 @@
 {
   "sections": {
+    "16586468313a1cc030": {
+      "type": "custom-slideshow",
+      "blocks": {
+        "511bd424-a73e-4057-8cc2-d3c34da37302": {
+          "type": "slide",
+          "settings": {
+            "title": "Lamps",
+            "content": "",
+            "image": "shopify:\/\/shop_images\/Lamp_Hero.jpg",
+            "image_origin": "center center",
+            "link": "",
+            "link_text": "",
+            "whole_slide_link": false
+          }
+        },
+        "a2082220-5659-41ff-a888-b60c9d0d9bf9": {
+          "type": "slide",
+          "settings": {
+            "title": "Chopping Boards",
+            "content": "<p>We have a variety of chopping, cutting and serving boards<\/p>",
+            "image": "shopify:\/\/shop_images\/Kitchen_Hero.jpg",
+            "image_origin": "bottom right",
+            "link": "shopify:\/\/collections\/chopping-boards",
+            "link_text": "",
+            "whole_slide_link": true
+          }
+        }
+      },
+      "block_order": [
+        "511bd424-a73e-4057-8cc2-d3c34da37302",
+        "a2082220-5659-41ff-a888-b60c9d0d9bf9"
+      ],
+      "settings": {
+        "plus_slideshow_title_font_color": "#ffffff",
+        "plus_slideshow_title_font_size": 60,
+        "plus_slideshow_title_font_size_mobile": 30,
+        "plus_slideshow_title_angle": 0,
+        "plus_slideshow_content_font_color": "#ffffff",
+        "plus_slideshow_content_font_size": 16,
+        "plus_slideshow_content_font_size_mobile": 16,
+        "plus_slideshow_button_border_radius": 0,
+        "plus_slideshow_button_background_color": "#464646",
+        "plus_slideshow_button_text_color": "#ffffff",
+        "plus_slideshow_button_background_color_hover": "#464646",
+        "plus_slideshow_button_text_color_hover": "#ffffff",
+        "plus_slideshow_text_align": "center",
+        "plus_slideshow_text_location_x": "center",
+        "plus_slideshow_text_location_y": "center",
+        "plus_slideshow_content_padding_x": 0,
+        "plus_slideshow_content_padding_y": 0,
+        "plus_slideshow_slide_speed": 10,
+        "plus_slideshow_max_height": 500,
+        "plus_slideshow_max_height_mobile": 90,
+        "plus_slideshow_navbar_color": "#ffffff",
+        "plus_slideshow_navbar_opacity": 0.5,
+        "plus_slideshow_nav_spacing": 20,
+        "plus_prev_next_button_color": "#ffffff",
+        "plus_prev_next_button_opacity": 0.5,
+        "plus_prev_next_button_hover_color": "#ffffff",
+        "plus_prev_next_button_hover_bg_color": "#232323",
+        "plus_prev_next_button_hover_opacity": 0.2
+      }
+    },
     "1658634861e9a29efa": {
       "type": "slideshow",
       "blocks": {
@@ -259,6 +322,7 @@
     }
   },
   "order": [
+    "16586468313a1cc030",
     "1658634861e9a29efa",
     "rich_text",
     "featured_collection",
