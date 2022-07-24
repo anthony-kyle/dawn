@@ -7,16 +7,16 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Lamp_Hero.jpg",
-            "heading": "Image slide",
+            "heading": "Lamps",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "Add some flair to your lights with our sustainable lamp shades.",
+            "button_label": "Get Lit",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 10,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
