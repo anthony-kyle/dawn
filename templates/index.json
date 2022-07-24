@@ -7,12 +7,12 @@
           "type": "slide",
           "settings": {
             "title": "Lamps",
-            "content": "",
+            "content": "<p>Add some flair to your lights with our sustainable lamp shades.<\/p>",
             "image": "shopify:\/\/shop_images\/Lamp_Hero.jpg",
-            "image_origin": "center center",
-            "link": "",
+            "image_origin": "bottom center",
+            "link": "shopify:\/\/collections\/lampshades",
             "link_text": "",
-            "whole_slide_link": false
+            "whole_slide_link": true
           }
         },
         "a2082220-5659-41ff-a888-b60c9d0d9bf9": {
@@ -65,6 +65,7 @@
     },
     "1658634861e9a29efa": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "1658634861c8355f7d-0": {
           "type": "slide",
